@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/out/production/hw2/Test" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/out/production/hw2/Test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="assertj-core-3.23.1 (2)" level="application" />
+    <orderEntry type="library" name="junit-jupiter-params-5.9.1 (2)" level="application" />
+    <orderEntry type="library" name="junit-platform-commons-1.9.1 (2)" level="application" />
+    <orderEntry type="library" name="assertj-core-3.23.1" level="project" />
+    <orderEntry type="library" name="junit-jupiter-api-5.9.1" level="project" />
+    <orderEntry type="library" name="junit-jupiter-params-5.9.1" level="project" />
+    <orderEntry type="library" name="junit-platform-commons-1.9.1" level="project" />
+  </component>
+</module>
